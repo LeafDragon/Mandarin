@@ -8,4 +8,4 @@ References
 [HSK Academy](https://www.hsk.academy/)
 
 
-[HSK List]](http://www.hskhsk.com/word-lists.html)
+[HSK List](http://www.hskhsk.com/word-lists.html)
