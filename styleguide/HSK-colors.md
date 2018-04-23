@@ -2,6 +2,8 @@ HSK-colors
 ========
 
 
+My own style guide for HSK colors. Using the ROYGBIV. Red has the least amount of enery, so it will be HSK 1. Since they are only 6 levels, violet will not be used. So indigo will be HSK 6.
+
 Red HSK 1
 
 
